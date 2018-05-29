@@ -1,0 +1,3 @@
+cat < sample2.txt
+cat < sample1.txt
+exit

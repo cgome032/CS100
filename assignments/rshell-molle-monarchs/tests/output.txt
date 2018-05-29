@@ -1,0 +1,3 @@
+ls -l sample1.txt > outputsample.txt
+ls -a > outputsample1.txt
+exit

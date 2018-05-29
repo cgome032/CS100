@@ -1,0 +1,4 @@
+#ls -a
+echo test#hello world
+false || true
+#echo no

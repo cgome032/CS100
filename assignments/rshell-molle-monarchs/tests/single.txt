@@ -1,0 +1,6 @@
+echo "hello"
+ls -a
+touch newfile
+ls
+rm newfile
+exit

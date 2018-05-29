@@ -1,0 +1,1 @@
+-rw-rw-r-- 1 carlos carlos 18 Dec  7 21:01 sample1.txt
